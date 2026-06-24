@@ -3,6 +3,6 @@
   "dependencies": {
     "csv-stringify": "^6.7.0",
     "dotenv": "^17.3.1",
-    "ws": "^8.20.0"
+    "ws": "^8.21.0"
   }
 }
